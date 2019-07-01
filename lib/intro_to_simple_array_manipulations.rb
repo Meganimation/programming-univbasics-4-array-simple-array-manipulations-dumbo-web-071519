@@ -1,6 +1,6 @@
-def using_push(colors_in_the_rainbow, next_color)
+def using_push(array, string)
   
-  updated_array.push = 'violet'
+  array.push
 end
 
 def using_unshift
